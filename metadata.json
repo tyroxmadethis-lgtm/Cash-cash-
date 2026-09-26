@@ -1,0 +1,6 @@
+{
+  "name": "CASHMERE KID$ – Luxury Independent Beat Store",
+  "description": "Ultra-premium independent beat store platform by Cashmere Kid$. Stream and license platinum Trap, Dark Synth, and Freestyle Trap instrumentals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
